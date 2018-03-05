@@ -9,7 +9,7 @@ The most difficullt thing when you build an application is to get appropriate de
 
 # Where is the Guideline for Developer?
 
-https://paper.dropbox.com/doc/Design-Guideline-Prototype-FTokCBNyEkCtVarL9fUZc#:h2=Mobile
+https://paper.dropbox.com/doc/Design-Guideline-Prototype-FTokCBNyEkCtVarL9fUZc
 
 
 # How to Feedback
