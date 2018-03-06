@@ -17,3 +17,9 @@ https://paper.dropbox.com/doc/Design-Guideline-Prototype-FTokCBNyEkCtVarL9fUZc
 You can feedback to this project with any channel. In this github repo, or e-mail, anything else.
 
 E-mail : thinkratomos@gmail.com
+
+## Update log
+### 180307
+XD File updated. (Mockup view added.)
+Typography building task started.
+Guideline for Developer Updated. (Pictures added. Now you can see thing more clearly!)
