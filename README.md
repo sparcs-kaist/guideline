@@ -20,10 +20,10 @@ E-mail : thinkratomos@gmail.com
 
 ## Update log
 ### 180307 ver0.1.0
-XD File updated. (Mockup view added.)
-Typography building task started.
-Guideline for Developer Updated. (Pictures added. Now you can see thing more clearly!)
+XD File updated. (Mockup view added.)\
+Typography building task started.\
+Guideline for Developer Updated. (Pictures added. Now you can see things more clearly!)
 
 ### 180307 ver0.1.1
-XD File updated. (Identity Color view added.)
+XD File updated. (Identity Color view added.)\
 Identity Color added to GFD(Guideline for Developer).
