@@ -27,3 +27,8 @@ Guideline for Developer Updated. (Pictures added. Now you can see things more cl
 ### 180307 ver0.1.1
 XD File updated. (Identity Color view added.)\
 Identity Color added to GFD(Guideline for Developer).
+
+### 180311 ver0.1.2
+Title image added to GFD
+Design Essential Added.
+Some principle is deleted. GFD will give more tolerance.
