@@ -11,6 +11,10 @@ The most difficullt thing when you build an application is to get appropriate de
 
 https://paper.dropbox.com/doc/Design-Guideline-Prototype-FTokCBNyEkCtVarL9fUZc
 
+# What's this github for?
+
+This repo is for UIKit of SPARCS design guideline. It will be fully updated until June 18th. After that day all developer can use this UIKit for free.
+
 
 # How to Feedback
 
