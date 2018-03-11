@@ -6,14 +6,14 @@ Project design guideline for SPARCS from KAIST.
 
 The most difficullt thing when you build an application is to get appropriate design language for the app. Making beautiful and fit design for specific application takes so much time and resources. It is easier to make application with design guideline that can be applied to various apps. And more, unified design language between applications make UX continuity, user of SPARCS services will notice they're using application made by SPARCS.
 
+# What's this github for?
+
+This repo is for UIKit of SPARCS design guideline. It will be fully updated until June 18th. After that day all developer can use this UIKit for free.
+
 
 # Where is the Guideline for Developer?
 
 https://paper.dropbox.com/doc/Design-Guideline-Prototype-FTokCBNyEkCtVarL9fUZc
-
-# What's this github for?
-
-This repo is for UIKit of SPARCS design guideline. It will be fully updated until June 18th. After that day all developer can use this UIKit for free.
 
 
 # How to Feedback
