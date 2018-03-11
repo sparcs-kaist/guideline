@@ -29,6 +29,6 @@ XD File updated. (Identity Color view added.)\
 Identity Color added to GFD(Guideline for Developer).
 
 ### 180311 ver0.1.2
-Title image added to GFD
-Design Essential Added.
+Title image added to GFD.\
+Design Essential Added.\
 Some principle is deleted. GFD will give more tolerance.
