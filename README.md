@@ -37,3 +37,6 @@ Text size added.\
 Header size changed. (smaller)\
 GFD is changed. Introduction is added, Interaction is deleted.\
 (upcoming) Design language and principle will be added.
+
+### 180317 ver0.2
+Logo Added, Design Language Name changed. (OEBL)\
