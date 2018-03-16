@@ -33,7 +33,7 @@ Design Essential Added.\
 Some principle is deleted. GFD will give more tolerance.
 
 ### 180316 ver0.1.3
-Text size added.
-Header size changed. (smaller)
-GFD is changed. Introduction is added, Interaction is deleted.
+Text size added.\
+Header size changed. (smaller)\
+GFD is changed. Introduction is added, Interaction is deleted.\
 (upcoming) Design language and principle will be added.
