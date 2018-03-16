@@ -17,7 +17,6 @@ https://paper.dropbox.com/doc/Design-Guideline-Prototype-FTokCBNyEkCtVarL9fUZc
 You can feedback to this project with any channel. In this github repo, or e-mail, anything else.\
 E-mail : thinkratomos@gmail.com
 
-=======
 ## Update log
 ### 180307 ver0.1.0
 XD File updated. (Mockup view added.)\
@@ -32,3 +31,9 @@ Identity Color added to GFD(Guideline for Developer).
 Title image added to GFD.\
 Design Essential Added.\
 Some principle is deleted. GFD will give more tolerance.
+
+### 180316 ver0.1.3
+Text size added.\
+Header size changed. (smaller)\
+GFD is changed. Introduction is added, Interaction is deleted.\
+(upcoming) Design language and principle will be added.
