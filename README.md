@@ -40,3 +40,7 @@ GFD is changed. Introduction is added, Interaction is deleted.\
 
 ### 180317 ver0.2
 Logo Added, Design Language Name changed. (OEBL)\
+
+### 180404 ver0.2.1
+Icon AI file added.\
+Icon list and prototype is on work.\
